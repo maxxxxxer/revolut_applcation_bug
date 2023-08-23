@@ -4,6 +4,7 @@ There is a description of a bug I detected in Revolut application
 Bug report:
 
 Reporter: Maksym Czerniawski
+
 Summary: Pop-up window "Paste" is not appearing in the "E-mail" field when adding a new bank account in Transfers.
 Revolut application version: 9.15
 Device: iPhone 12 Mini
